@@ -7,9 +7,9 @@ This code contains :
 4- Min class
 5- test.html
 6- notfound.html
-	In the first step, to create a server  at port number:4321 ; I create object from serversocket class in Min class. And I accept the connection from the client (browser).
-	In the second step, I use a connection class to create a multithread http server.
-	In the third step, I use httprequest class to get the request from the browser.
-	In the fourth step, I use httpresponce class to read the file.
-	In the fifth step, I use the test.html as a test file to show me how the response is successful. And I will use notfound.html as test file to show me how the response is failed and the page is not found.
+## In the first step, to create a server  at port number:4321 ; I create object from serversocket class in Min class. And I accept the connection from the client (browser).
+## In the second step, I use a connection class to create a multithread http server.
+##	In the third step, I use httprequest class to get the request from the browser.
+##	In the fourth step, I use httpresponce class to read the file.
+##	In the fifth step, I use the test.html as a test file to show me how the response is successful. And I will use notfound.html as test file to show me how the response is failed and the page is not found.
 
